@@ -13,7 +13,7 @@ The UI for this program should hopefully feel intuitive, but in case it is not: 
 -Cmd(alt) + Click to draw an equipotential line <br>
 <br>
 Sliders:<br>
-&nbsp; &nbsp; &nbsp; Field Densiity - the amount of field lines originating from each charge, (this should not be interpreted as the strength of the field)<br>
+&nbsp; &nbsp; &nbsp; Field Density - the amount of field lines originating from each charge, (this should not be interpreted as the strength of the field)<br>
 &nbsp; &nbsp; &nbsp; Magnitue - the relative magnitude of the charges<br>
 &nbsp; &nbsp; &nbsp; Precision - the percision at which field lines are drawn (higher is more precise) (lower values can produce unintended results)<br>
 <!-- Im so good at html -->
@@ -28,7 +28,7 @@ My attempt to draw a ghost using equipotential lines:
 
 <h3>Know Issues</h3>
 -Equipotential lines will sometimes fail to draw completely<br>
--Using the Magnitude slider without a charge selected will produce unitented results<br>
+-Using the Magnitude slider without a charge selected will produce unintended results<br>
 -Tkinter does not scale its pixels properly to (at least with my computer) the maximum aspect ratio available<br>
 -This script has only been tested on a M2 Macbook, if you experience issues on your device file a ticket or smthn idunno<br>
 -There are probably copious spelling errors in this README<br>
