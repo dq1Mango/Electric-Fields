@@ -6,7 +6,7 @@ This is a python script written with <a href=https://docs.python.org/3/library/t
 <h3>User Guide</h3>
 The UI for this program should hopefully feel intuitive, but in case it is not: <br>
 -Click to add a charge <br>
--Clicking on an exsisting charge will select it<br>
+-Clicking on an existing charge will select it<br>
 -Dragging a charge will um... drag it <br>
 -Shift + Click to add a negative charge <br>
 -Delete to delete the selected charge <br>
@@ -21,7 +21,7 @@ Sliders:<br>
 <h3>Screenshots</h3>
 A single charge with maximum field density:
 <img width="1235" alt="Screenshot 2024-10-31 at 7 33 04 PM" src="https://github.com/user-attachments/assets/930d4bd5-cbd3-4f89-945c-810e32292a3d">
-A simple diople:
+A simple dipole:
 <img width="1235" alt="Screenshot 2024-10-31 at 7 17 37 PM" src="https://github.com/user-attachments/assets/d4bcd083-6161-44fe-8ae5-c259ce236bdc">
 My attempt to draw a ghost using equipotential lines:
 <img width="1237" alt="Screenshot 2024-10-31 at 7 20 11 PM" src="https://github.com/user-attachments/assets/fedf0843-cad1-4a8f-b551-b066bfa55ffc">
