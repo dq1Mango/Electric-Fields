@@ -14,8 +14,8 @@ The UI for this program should hopefully feel intuitive, but in case it is not: 
 <br>
 Sliders:<br>
 &nbsp; &nbsp; &nbsp; Field Density - the amount of field lines originating from each charge, (this should not be interpreted as the strength of the field)<br>
-&nbsp; &nbsp; &nbsp; Magnitue - the relative magnitude of the charges<br>
-&nbsp; &nbsp; &nbsp; Precision - the percision at which field lines are drawn (higher is more precise) (lower values can produce unintended results)<br>
+&nbsp; &nbsp; &nbsp; Magnitude - the relative magnitude of the charges<br>
+&nbsp; &nbsp; &nbsp; Precision - the precision at which field lines are drawn (higher is more precise) (lower values can produce unintended results)<br>
 <!-- Im so good at html -->
 
 <h3>Screenshots</h3>
@@ -30,10 +30,10 @@ My attempt to draw a ghost using equipotential lines:
 -Equipotential lines will sometimes fail to draw completely<br>
 -Using the Magnitude slider without a charge selected will produce unintended results<br>
 -Tkinter does not scale its pixels properly to (at least with my computer) the maximum aspect ratio available<br>
--This script has only been tested on a M2 Macbook, if you experience issues on your device file a ticket or smthn idunno<br>
+-This script has only been tested on a M2 Macbook, if you experience issues on your device file a ticket or smthn i dunno<br>
 -There are probably copious spelling errors in this README<br>
 
 <h3>Potential Features</h3>
--Equipotential line permenace (currently they are cleared on any screen refresh, even though not all would require them to be redrawn)<br>
+-Equipotential line permanence (currently they are cleared on any screen refresh, even though not all would require them to be redrawn)<br>
 -An electric potential heatmap (the beginings of which can be seen under the <a href=https://github.com/dq1Mango/Electric-Fields/tree/experimental> expiremental branch</a>)<br>
 -Whatever will get me more bonus points ;)
