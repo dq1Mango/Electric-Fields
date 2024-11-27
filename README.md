@@ -1,7 +1,7 @@
 <h1>README</h1>
 
 <h3>Description</h3>
-This is a python script written with <a href=https://docs.python.org/3/library/tkinter.htmlr>Tkinter</a> designed to depict electric fields and equipotential lines, written as a bonus assignment for Physics C: Electricity & Magnetism. 
+This is a python script written with <a href=https://docs.python.org/3/library/tkinter.html>Tkinter</a> designed to depict electric fields and equipotential lines, written as a bonus assignment for Physics C: Electricity & Magnetism. 
 
 <h3>User Guide</h3>
 The UI for this program should hopefully feel intuitive, but in case it is not: <br>
